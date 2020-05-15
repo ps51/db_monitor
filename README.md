@@ -1,4 +1,10 @@
-
+# 请麻烦协助删除mbss-h5项目的所有fork或其他所有copy
+	您好：
+	我在这个网址下 https://github.com/hwedwin/mbss-h5/network/members
+	发现了我公司开发的软件项目，该项目为我公司为客户定制开发，
+	公开该项目(mbss-h5)涉及隐私以及法律风险，
+	请github协助删除该项目和所有相关的fork或其他所有copy。
+	我是 mbss-h5 负责人李先生，您有任何疑问可以和我联系，电话微信都是 15620001781.
 # DB monitor数据库监控平台
 
 ![](https://img.shields.io/badge/build-release-brightgreen.svg)
